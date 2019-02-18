@@ -23,22 +23,32 @@ The dark green is a little too dark on the dark background. The text is again to
 
 I'Tayanna is late
 
-Clyde pushed an empty folder. All of his code wasn't in the correct folder.
+Clyde (6:36). At first he pushed an empty folder. All of his code wasn't in the correct folder.
+It makes it look like your name is Linus Torvald. About me text is too small and has no margins. Project page should be a picture of your project, not the code. Also, the github link should be a link to your actual projet, not github.com. Your contact info could be embeded so you don't leave your user confused. 
 
 Betty (7:00)
 Try to get the first page on one page. Make the text larger. Too much empty space. Make it obvious when you're on the page you clicked. If there's time, make each image a link as welll to the project repository. What is the button on the bottom of the resume page? Weekly Reflections left column should be bigger. 
 
-Chelsea ()
+Chelsea (5:25)
 The page should be 100% of height with no scroll. Make text a little larger. What was on the top of the resume page. It looks like we're missing information that we should have. Contact page is completely differently themed than everything else. It should look similar. Are you allowed to use the video? 
 
-Porche
+Porche (7:03)
+The text is too dark on the dark background. Her about me picture is not fixed. Too much empty space on resume page. Download resume should be higher on page. Portfolio projects should be smaller to fit page. Contact page should be centered. She said she copied and paste the hamburger menu and video carosel.
 
-Melaati
+Melaati (7:29)
+Images on the home page are too large. There is too much text without line breaks. It makes it harder to read too much text. Make sure you use words to tell people what each logo means on your skills. There are a lot of pictures that are to large.
+Positive: She used boostrap, but could explain what it was so it's allowed and no points taken off. I could tell she didn't just copy and paste the carosel. Maybe with the navbar.
 
-Didier
 
-Josh
+Didier (). Didn't have his final code pushed at 8am. He asked for me to use his code 30mins after deadline (which was 30mins before class).
 
-Ricky
 
-Juwan
+
+Josh ()
+
+
+Ricky ()
+
+
+Juwan ()
+
