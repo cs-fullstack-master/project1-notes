@@ -1,11 +1,12 @@
 # project1-notes
 
-Carlos is late
+Carlos is late (7:21)
+Looks like a very simple bootstrap. Need metrics for your skills. 
 
 Autumn (6:40s)
 The icons don't tell you what they are, but that maybe okay. Contact me page doesn't have the same theme as every other page. Home is the only one with all navigation. There's no way to know which page you are on in navigation bar. Projects page is too wide. The reflections page has the navigation arrows pretty low on the page.
 
-Cierra is late
+Cierra is late. She came in and didn't have a project.
 
 Thomas (6:42)
 Send us feedback should say contact. There's still a lot of space on Skills page. There's nothing telling you about hovering over the skills on the left on the projects page. A lot of empty space on the Education page.
@@ -40,15 +41,16 @@ Images on the home page are too large. There is too much text without line break
 Positive: She used boostrap, but could explain what it was so it's allowed and no points taken off. I could tell she didn't just copy and paste the carosel. Maybe with the navbar.
 
 
-Didier (). Didn't have his final code pushed at 8am. He asked for me to use his code 30mins after deadline (which was 30mins before class).
+Didier (6:52). Didn't have his final code pushed at 8am. He asked for me to use his code 30mins after deadline (which was 30mins before class).
+Personal browser may be zoomed in too far. On the projector it was off. The home nav bar is too slow and I think the text is too dark. Is the first loading page project broken? If you're apply to US jobs you should have your contact page in English. You should make your weekly reflections public. 
+
+Josh (7:20)
+Homepage maybe need to shrink depending on page size. Header transistion should be faster. Add some spaces in your about me so it's easier to read. Add more spaces in your ITT skills. Make your embeded resume wider. Too much empty space on skills page (if you don't have enough you can add this to another page). At a later time, you should organize the projects better, but it's fine for now. Users don't know they can mouse over the empty space on the contact page, it looks like too much empty space. 
+Positive: He could explain how translate3d works.
 
 
+Ricky (6:45). Didn't push project at 8am. Needed me to pull it from 10:30a push
+Contact page should look like the theme of the home page. The linked page should go to your personal linkedIn page, not linkedIn.com. It should be more obvious the first page is your aboutMe page. Your resume page should look like the rest of your pages. There isn't a project's page, just a link to project. If there's  a return
 
-Josh ()
-
-
-Ricky ()
-
-
-Juwan ()
-
+Juwan (8:08)
+Skills need a metric on how much you know each skill.
